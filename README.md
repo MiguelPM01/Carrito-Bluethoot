@@ -1,3 +1,6 @@
 # Carrito-Bluetooth
 
-Dentro de este repositorio encotraremos los archivos y evidencias sobre el carrito controlado por bluetooth con el mictrocontrolador ESP32
+*Dentro de este repositorio tendremos evidencias y archivos necesarios para realizar el proyecto del carrito controlado por bluetooth*
+
+## Introducción 
+
