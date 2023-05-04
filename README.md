@@ -47,3 +47,5 @@ ESP32 es muy superior, en capacidades, a un Arduino UNO y a un ESP8266, pero eso
 - [Programa para el microcontrolador en la IDE de arduino](https://github.com/MiguelPM01/Carrito-Bluetooth/tree/main/Programa%20Arduino%20Carrito%20Bluetooth)
 
 - [Aplicación móvil para controlar el carrito](https://github.com/MiguelPM01/Carrito-Bluetooth/tree/main/App%20joystick)
+
+- [Circuito electrónico]()
