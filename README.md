@@ -24,6 +24,12 @@ ESP32 es muy superior, en capacidades, a un Arduino UNO y a un ESP8266, pero eso
 
 - [LM7805 Divisor de voltaje](https://articulo.mercadolibre.com.mx/MLM-689151088-regulador-de-voltaje-lm7805-78-05-5v-15a-l7805cv-10pzs-_JM#position=3&search_layout=stack&type=item&tracking_id=dc37a16d-284d-4456-aae6-0e42c1784e6d)
 
+## Software a utilizar 
+
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Fritzing](https://fritzing.org/)
+
+
 - [Jumpers](https://articulo.mercadolibre.com.mx/MLM-810499552-120-cables-jumpers-dupont-h-h-m-m-h-m-10cm-para-protoboard-_JM#position=2&search_layout=stack&type=item&tracking_id=a72e3444-eccd-4762-93cc-f944af8952ee)
 
 - [Resistencia 220 Ω](https://articulo.mercadolibre.com.mx/MLM-631953546-600-resistencias-14-w-_JM#is_advertising=true&position=1&search_layout=stack&type=pad&tracking_id=fed958a7-e2fb-4a53-a46f-fd93cca3a8d5&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZWM4NGQ2ZGUtMTZiZS00YTdlLWI5NDAtZmY2MzYwNjIxNDc0)
