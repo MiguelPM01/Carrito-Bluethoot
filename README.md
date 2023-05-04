@@ -48,4 +48,6 @@ ESP32 es muy superior, en capacidades, a un Arduino UNO y a un ESP8266, pero eso
 
 - [Aplicación móvil para controlar el carrito](https://github.com/MiguelPM01/Carrito-Bluetooth/tree/main/App%20joystick)
 
-- [Circuito electrónico]()
+- [Circuito electrónico](https://github.com/MiguelPM01/Carrito-Bluetooth/blob/main/Diagrama/106544696_159223999041721_716753172890525202_n.jpg)
+
+## Evidencias 
